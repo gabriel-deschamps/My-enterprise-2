@@ -1,0 +1,29 @@
+body{background-color:whitesmoke;
+
+fant-family:circular;
+font-size: 17px;}
+
+.card-about{
+    background: white;
+	padding: 20px ;          
+	margin:  40px auto;
+	border-radius: 10px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	text-align: center;
+	border: 6px black;
+	max-width: 900px;
+
+}
+
+.photos {
+    	border-radius:75%;
+	height: 200px;
+	width: 200px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,.1);
+
+}
+
+.container {
+	t
+
+}
